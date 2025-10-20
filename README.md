@@ -1,31 +1,73 @@
-## 👋 About Me
+<h1 align="center">Hey there! 👋 I'm Kishore</h1>
 
-Hi! I'm Kishore.  
-I'm learning to code and exploring Java, Spring Boot, and web development.  
-I enjoy building small projects and improving every day.
-
----
-
-## 🛠️ My Skills
-
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<p align="center">
+  🌱 Passionate about building robust backend systems with <b>Java</b> and <b>Spring Boot</b><br>
+  💻 Turning ideas into projects, one intelligent commit at a time!<br>
+  🚀 Always curious to explore complex challenges and continuously improve.
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 About Me  
+- 🎓 Aspiring **Backend Developer** specializing in server-side logic and APIs.
+- ☕ Currently mastering **Java** and **Spring Boot**, with a focus on **state management** and **external API integration** (like the recent work on Telegram bot development).
+- 🌐 Exploring web technologies, **RESTful APIs**, and fullstack development.
+- 💡 I believe the best way to learn is by building complex, real-world projects.
+- ⚡ Fun fact: I love clean code and simple UI designs.
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Kishore-xo&theme=dark&show_icons=true&count_private=true" />
-      <br>
-      <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Kishore-xo&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kishore-xo&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-xo&theme=tokyonight" alt="Kishore's streak stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Kishore-xo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-xo&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <br><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-xo&theme=tokyonight" alt="GitHub Profile Summary Card" />
     </td>
   </tr>
 </table>
+
+---
+
+### ✨ My Learning Goals  
+📘 Deep dive into **Spring Boot** features like **Security (JWT)**, **Data Persistence (JPA)**, and building advanced **RESTful APIs**.
+🧩 Learn **Docker** for containerization and simplify application **Deployment** (e.g., on Render or AWS).
+🌍 Build a few fullstack projects combining backend with modern frontend frameworks.
+
+---
+
+
+### 💬 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/kishore-xo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kishore42835@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ “Code. Learn. Improve. Repeat.” ⭐</p>
