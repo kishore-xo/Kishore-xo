@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Kishore</h1>
 
 <p align="center">
-  🌱 Passionate about building robust backend systems with <b>Java</b> and <b>Spring Boot</b><br>
-  💻 Turning ideas into projects, one intelligent commit at a time!<br>
-  🚀 Always curious to explore complex challenges and continuously improve.
+   Passionate about building robust backend systems with <b>Java</b> and <b>Spring Boot</b><br>
+   Turning ideas into projects, one intelligent commit at a time!<br>
+   Always curious to explore complex challenges and continuously improve.
 </p>
 
 ---
@@ -31,22 +31,10 @@
 ---
 
 ### 📊 GitHub Stats  
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kishore-xo&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-xo&theme=tokyonight" alt="Kishore's streak stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-xo&layout=compact&theme=tokyonight" alt="Top Languages" />
-      <br><br>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-xo&theme=tokyonight" alt="GitHub Profile Summary Card" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-xo&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-xo&theme=tokyonight" alt="GitHub Profile Summary Card" />
+</p>
 ---
 
 ### ✨ My Learning Goals  
