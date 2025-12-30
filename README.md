@@ -32,9 +32,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-xo&layout=compact&theme=tokyonight" alt="Top Languages" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-xo&theme=tokyonight" alt="GitHub Profile Summary Card" />
+   
 </p>
+
 ---
 
 ### ✨ My Learning Goals  
