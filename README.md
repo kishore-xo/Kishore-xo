@@ -1,63 +1,58 @@
-<h1 align="center">Hey there! 👋 I'm Kishore</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kishore+👋;Backend+Developer;Java+%26+Spring+Boot+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-   Passionate about building robust backend systems with <b>Java</b> and <b>Spring Boot</b><br>
-   Turning ideas into projects, one intelligent commit at a time!<br>
-   Always curious to explore complex challenges and continuously improve.
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjczdWN1ZWN2ZXJxbTV1eHE5eDZya2dqMDVnanJhOXIyZDQwMTRwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJWXxAr2Za6EtN2Row/giphy.gif" width="40" align="middle">
+  &nbsp;&nbsp;
+  <strong>Building robust backend systems, one line of code at a time.</strong><br>
+       Focused on <b>Scalability</b> • <b>Clean Architecture</b> • <b>Performance</b>
+</p>
+
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Spring Boot Microservices**.
+- ⚙️ Mastering **State Management** and **RESTful API Design**.
+- 💬 Ask me about **Java**, **Spring Security**, or why I love **Clean Code**.
+- 🏗️ I believe in learning by building real-world, complex systems.
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,github,postman,html,css,docker" />
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🎓 Aspiring **Backend Developer** specializing in server-side logic and APIs.
-- ☕ Currently mastering **Java** and **Spring Boot**, with a focus on **state management** and **external API integration** (like the recent work on Telegram bot development).
-- 🌐 Exploring web technologies, **RESTful APIs**, and fullstack development.
-- 💡 I believe the best way to learn is by building complex, real-world projects.
-- ⚡ Fun fact: I love clean code and simple UI designs.
-
----
-
-### 🛠️ Tech Stack  
-
+### 📈 GitHub Activities
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-xo&theme=tokyonight" width="80%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-xo&theme=tokyonight" alt="GitHub Profile Summary Card" />
-   
-</p>
+### 🎯 Learning Roadmap
+- [ ] **Advanced Security:** JWT & OAuth2 implementation.
+- [ ] **Cloud:** Deploying Spring apps to AWS/Azure.
+- [ ] **Architecture:** Exploring Microservices & Event-Driven design.
 
 ---
 
-### ✨ My Learning Goals  
-📘 Deep dive into **Spring Boot** features like **Security (JWT)**, **Data Persistence (JPA)**, and building advanced **RESTful APIs**.
-🧩 Learn **Docker** for containerization and simplify application **Deployment** (e.g., on Render or AWS).
-🌍 Build a few fullstack projects combining backend with modern frontend frameworks.
-
----
-
-
-### 💬 Connect With Me  
-
+### 💬 Connect With Me
 <p align="center">
-  <a href="https://github.com/kishore-xo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  <a href="https://github.com/kishore-xo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:kishore42835@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">⭐ “Code. Learn. Improve. Repeat.” ⭐</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</p>
