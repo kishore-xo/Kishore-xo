@@ -36,12 +36,6 @@
 
 ---
 
-### 🎯 Learning Roadmap
-- [ ] **Advanced Security:** JWT & OAuth2 implementation.
-- [ ] **Cloud:** Deploying Spring apps to AWS/Azure.
-- [ ] **Architecture:** Exploring Microservices & Event-Driven design.
-
----
 
 ### 💬 Connect With Me
 <p align="center">
