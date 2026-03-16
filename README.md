@@ -9,15 +9,6 @@
        Focused on <b>Scalability</b> • <b>Clean Architecture</b> • <b>Performance</b>
 </p>
 
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Spring Boot Microservices**.
-- ⚙️ Mastering **State Management** and **RESTful API Design**.
-- 💬 Ask me about **Java**, **Spring Security**, or why I love **Clean Code**.
-- 🏗️ I believe in learning by building real-world, complex systems.
-
 ---
 
 ### 🛠️ Tech Stack
